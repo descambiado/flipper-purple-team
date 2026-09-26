@@ -13,7 +13,7 @@ date: 2026-05-23
 tags:
     - attack.execution
     - attack.t1059.004
-    - attack.initial_access
+    - attack.initial-access
     - attack.t1200
 logsource:
     category: process_creation

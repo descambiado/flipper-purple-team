@@ -19,7 +19,7 @@ tags:
     - attack.execution
     - attack.t1105
     - attack.t1027
-    - attack.initial_access
+    - attack.initial-access
     - attack.t1200
 logsource:
     category: process_creation
