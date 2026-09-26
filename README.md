@@ -29,7 +29,7 @@ Run the payload on a test machine. Check your SIEM. If the rule fires, your dete
 | 02 | [Encoded command download cradle](badusb/02-windows-encoded-download-cradle/) | Windows | Yes | Planned | Planned | Done |
 | 03 | [macOS terminal command execution](badusb/03-macos-terminal-execution/) | macOS | Yes | - | Planned | Done |
 | 04 | [Windows LOLBIN execution (certutil)](badusb/04-windows-lolbin-certutil/) | Windows | Yes | Yes | - | Done |
-| 05 | [Linux bash reverse shell](badusb/05-linux-bash-revshell/) | Linux | Planned | - | Planned | Planned |
+| 05 | Linux bash reverse shell (not started) | Linux | Planned | - | Planned | Planned |
 
 ### Sub-GHz / RF
 
